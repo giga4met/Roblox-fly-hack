@@ -19,6 +19,7 @@ The A7D3453C-DCFC-4FDB-A758-42209DA937B8.webp file is just a picture of a troll 
 
 the langauge file is just a list of langauges
 
+j
 	<a href="https://discord.gg/xjvT7Y6rcp">
 		<img src="https://img.shields.io/badge/discord-server-blue.svg" alt="Discord" />
 	</a>
