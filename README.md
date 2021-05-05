@@ -16,3 +16,5 @@ DO NOT COPY ANYTHING FROM THE FLY HACK IN GITHUB LANGUAGE OR ELSE IF YOU PASTE I
 
 
 The A7D3453C-DCFC-4FDB-A758-42209DA937B8.webp file is just a picture of a troll face facing foward nothing important lol
+
+the langauge file is just a list of langauges
