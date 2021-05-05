@@ -21,10 +21,10 @@ the langauge file is just a list of langauges
 
 <p align="center"><img src="https://raw.githubusercontent.com/senselessdemon/rcmd/master/icon.png" width="30%" height="30%"></p>
 <div align="center">
-	<a href="https://discord.io/demonden">
+	<a href="https://discord.gg/xjvT7Y6rcp">
 		<img src="https://img.shields.io/badge/discord-server-blue.svg" alt="Discord" />
 	</a>
-	<a href="https://www.roblox.com/users/1811890178/profile">
+	<a href="https://web.roblox.com/users/1156880273/profile">
 		<img src="https://img.shields.io/badge/roblox-profile-red.svg" alt="Discord" />
 	</a>
 </div>
