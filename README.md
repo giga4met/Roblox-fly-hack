@@ -18,3 +18,13 @@ DO NOT COPY ANYTHING FROM THE FLY HACK IN GITHUB LANGUAGE OR ELSE IF YOU PASTE I
 The A7D3453C-DCFC-4FDB-A758-42209DA937B8.webp file is just a picture of a troll face facing foward nothing important lol
 
 the langauge file is just a list of langauges
+
+<p align="center"><img src="https://raw.githubusercontent.com/senselessdemon/rcmd/master/icon.png" width="30%" height="30%"></p>
+<div align="center">
+	<a href="https://discord.io/demonden">
+		<img src="https://img.shields.io/badge/discord-server-blue.svg" alt="Discord" />
+	</a>
+	<a href="https://www.roblox.com/users/1811890178/profile">
+		<img src="https://img.shields.io/badge/roblox-profile-red.svg" alt="Discord" />
+	</a>
+</div>
